@@ -19,3 +19,17 @@ models:
             tests:
                 - unique
                 - not_null
+sources:
+    - name: SF_DBT_RAW_LAYAR_TBALES
+      database: SF_DBT_UAT
+      schema: SF_DBT_RAW_LAYAR
+      tables:
+        - name: BOTL
+        - name: CARS
+        - name: COST
+        - name: DIST
+        - name: HIGHEST_GRADE
+        - name: MY_FIRST_DBT_MODEL
+        - name: MY_SECOND_DBT_MODEL
+        - name: SALES
+        - name: SHIP        
