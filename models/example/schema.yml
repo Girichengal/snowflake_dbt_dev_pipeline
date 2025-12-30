@@ -32,4 +32,3 @@ sources:
         - name: MY_FIRST_DBT_MODEL
         - name: MY_SECOND_DBT_MODEL
         - name: SALES
-        - name: SHIP        
