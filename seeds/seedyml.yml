@@ -1,0 +1,10 @@
+seeds:
+  - name : Seeds_test
+    config:
+      column_types:
+        emp_name: varchar
+        emp_id: varchar
+        emp_address: varchar
+        emp_salary: varchar
+        emp_join_dt: date
+        emp_exp: varchar
